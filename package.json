@@ -1,0 +1,7 @@
+{
+   "name": "SampleYarf",
+   "version": "0.0.1",
+   "dependencies": {
+       "yarf": "git+ssh://git@vlastef.co.uk:yarf.git"
+   }
+}
